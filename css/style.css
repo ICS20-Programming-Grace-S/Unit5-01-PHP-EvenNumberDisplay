@@ -1,0 +1,50 @@
+/*Created by: Grace S
+*Created on: Apr 2022
+*This CSS file defines the style for index.html
+*ICS2O-Unit3-04-HTML-FarenheitCelsius
+*/
+
+body {
+  background-color: rgb(127, 221, 181);
+  text-align: center;
+}
+
+h5 {  border-style: solid;
+  background-color: #6FC19E;
+  color: #cf779d;
+  border-color: #DD7FA7;
+  text-align: center;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #DD7FA7;
+	font-weight: bold;
+  height: 50px;
+}
+
+body {
+	background-color: rgb(143, 255, 244);
+  text-align: center;
+}
+
+h1 {
+	background-color: #f4a4b8;
+  color: rgb(191, 253, 207);
+  padding: 30px;
+}
+
+h4 {
+  background-color: #f2ffb3;
+}
+
+.results {
+  font-weight: bold;
+}
+
+iframe {
+  background-color: #fd9696;
+  padding: 10px;
+}
