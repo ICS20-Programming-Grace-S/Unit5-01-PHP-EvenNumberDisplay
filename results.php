@@ -11,7 +11,7 @@
       $counter = $minimum;
 
       if ($minimum == $maximum) {
-       echo "<h5>Please enter in different numbers for each.</h5>";
+       echo "<h5>Please enter different numbers for each.</h5>";
     } else if ($minimum <= $maximum) {
         while (($counter >= $minimum) && ($counter <= $maximum)) {
         $number = $counter . "<br>";
